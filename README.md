@@ -16,7 +16,10 @@
 
 ## About
 
-## Features
+## Features / Targets
+* Must be accurate within 50-150m with an uncertainty of 50-200mm at most
+* The entirety of the rig must be smaller than $$256mm^2$$ (So as to be easily printed by my 3d printer)
+* Cost of the entire build to be less than $250 NZD
 
 ## BOM
 | Item | Quantity | Price | Link |
