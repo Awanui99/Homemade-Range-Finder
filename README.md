@@ -43,6 +43,8 @@
 ## Performance & Limitations
 
 ## Safety Considerations
+* 1550nm wavelength was chosen over 905nm due to Class 1 restrictions and general safety concerns regarding personal use. Furthermore, 1550nm posed a more favourable candidate as the power used prior to reaching exposure risks was significantly more than 905nm, thereby theoratically achieving farther proton transmission.
+* 
 
 ## Future Improvements
 
